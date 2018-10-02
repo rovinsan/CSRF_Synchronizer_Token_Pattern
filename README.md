@@ -1,1 +1,2 @@
-# CSRF_Synchronizer_Token_Pattern
+## synchronizer token pattern (php) example
+
