@@ -1,4 +1,4 @@
-# synchronizer token pattern (php) example
+# Synchronizer Token Pattern (php) example
 
 ## Enviornment Setup
 
